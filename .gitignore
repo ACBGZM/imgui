@@ -1,3 +1,6 @@
+bin/
+intermediate/
+
 ## OSX artifacts
 .DS_Store
 
