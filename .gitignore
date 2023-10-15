@@ -1,5 +1,4 @@
-bin/
-intermediate/
+_build/
 
 ## OSX artifacts
 .DS_Store
