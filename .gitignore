@@ -1,18 +1,4 @@
-# Binaries
-out-bin/
-out-obj/
-
-# Files
-CMakeLists.txt
-
-# Visual Studio 
-.vs/
-**.sln
-**.vcxproj
-**.vcxproj.filters
-**.vcxproj.user
-**.csproj
-
+_build/
 
 ## OSX artifacts
 .DS_Store
