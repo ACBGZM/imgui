@@ -1,5 +1,20 @@
 _build/
 
+# Binaries
+out-bin/
+out-obj/
+
+# Files
+CMakeLists.txt
+
+# Visual Studio 
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+
 ## OSX artifacts
 .DS_Store
 
